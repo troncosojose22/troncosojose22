@@ -7,8 +7,7 @@
 ## 👨‍🏫 About Me
 - **2 + years of experience as an Operations Supervisor**
 - **Software Engineering Fellow at [The Marcy Lab School](https://www.marcylabschool.org/)**, where I'm working towards becoming a full stack developer.
-- Born in **Barquisimeto, Venezuela** • Raised in **Venezuela** • Currently in **Brooklyn, NY**.
-<!--- **Strengths**: , [Skill 2], [Skill 3].-->
+- Born in **Barquisimeto, Venezuela** • Raised in **Venezuela** • Currently in **Brooklyn, NY**.<!--- **Strengths**: , [Skill 2], [Skill 3].-->
 - Outside of work: I love to rock climb, play chess, swim and go for runs.
 - **Mission**: Working towards making the world a better place.
 
