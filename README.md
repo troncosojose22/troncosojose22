@@ -1,14 +1,10 @@
 # Hi, I'm Jose Troncoso 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=355E3B&width=900&lines=[Your+Tagline]+;[Another+Line];[Something+Fun+About+You])](https://git.io/typing-svg)
-
----
-
 ## 👨‍🏫 About Me
 - **2 + years of experience as an Operations Supervisor**
-- **Software Engineering Fellow at [The Marcy Lab School](https://www.marcylabschool.org/)**, where I'm working towards becoming a full stack developer.
+- **Software Engineering Fellow at [The Marcy Lab School](https://www.marcylabschool.org/)**, where I'm working towards becoming a full-stack developer.
 - Born in **Barquisimeto, Venezuela** • Raised in **Venezuela** • Currently in **Brooklyn, NY**.<!--- **Strengths**: , [Skill 2], [Skill 3].-->
-- Outside of work: I love to rock climb, play chess, swim and go for runs.
+- Outside of work: I love to rock climb, play chess, swim, and go for runs.
 - **Mission**: Working towards making the world a better place.
 
 ---
@@ -42,8 +38,8 @@
 --- -->
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=troncosojose22&show_icons=true&theme=dark&hide_rank=true)  
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=troncosojose22&layout=compact&theme=dark)  
+<!--![Stats](https://github-readme-stats.vercel.app/api?username=troncosojose22&show_icons=true&theme=dark&hide_rank=true)  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=troncosojose22&layout=compact&theme=dark)  -->
 ![Streak](https://streak-stats.demolab.com?user=troncosojose22&theme=dark)
 
 ---
